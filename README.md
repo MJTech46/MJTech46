@@ -3,7 +3,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   
-  [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/kcaYgWZB) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abinsanthosh19) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abin-santhosh-16299227a)
+  [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/h8q8pe5v) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abinsanthosh19) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abin-santhosh-16299227a)
   
 </div>
 
@@ -12,7 +12,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mjtech46&label=Profile%20views&color=0e75b6&style=flat" alt="mjtech46" /> </p>
 
 # 💫 About Me:
-🔭 I’m currently working on my Django & Flask projects.<br>👯 I’m looking to collaborate on open-source projects related to Python Full Stack Web development.<br>🌱 I’m currently learning Django, Flask & Java to broaden my knowledge and improve my contributions.<br>💬 Ask me about Python & Java - I'm always happy to share what I know!<br>⚡ Fun fact: Everyone thinks my name is "ABIN," but surprise! It's actually pronounced "EBIN." It's like a bug in the code that no one can debug!<br>📫 How to reach me abinsanthosh19@gmail.com
+🔭 I’m ***currently working*** on my Django & Flask projects.<br><br>👯 I’m looking to ***collaborate*** on open-source projects related to Python Full Stack Web development.<br><br>🌱 I’m ***currently learning*** Django, Flask & Java to broaden my knowledge and improve my contributions.<br><br>💬 ***Ask me about*** Python & Java - I'm always happy to share what I know!<br><br>🔥I'm ***aiming for*** a 365-day GitHub streak, committing meaningful code every day for a year. This challenge is about growth, consistency, and dedication to my craft. Each commit, whether it's fixing bugs, adding features, or improving documentation, is a step toward enhancing my skills. I'm excited to see the progress I can achieve through daily learning and improvement!<br><br>⚡ ***Fun fact***: Everyone thinks my name is "ABIN," but surprise! It's actually pronounced "EBIN." It's like a bug in the code that no one can debug!<br><br>📫 How to ***reach me*** abinsanthosh19@gmail.com
 
 
 # 💻 Tech Stack:
