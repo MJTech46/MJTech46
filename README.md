@@ -13,7 +13,23 @@
 
 # 💫 About Me:
 
-🔭 I’m **_currently working_** on my Django & Flask projects.<br><br>👯 I’m looking to **_collaborate_** on open-source projects related to Python Full Stack Web development.<br><br>🌱 I’m **_currently learning_** Django, Flask & Java to broaden my knowledge and improve my contributions.<br><br>💬 **_Ask me about_** Python & Java - I'm always happy to share what I know!<br><br>🔥I'm **_aiming for_** a 365-day GitHub streak, committing meaningful code every day for a year. Each commit, whether it's fixing bugs, adding features, or improving documentation, is a step toward enhancing my skills.<br><br>⚡ **_Fun fact_**: Everyone thinks my name is "ABIN," but surprise! It's actually pronounced "EBIN." It's like a bug in the code that no one can debug!<br><br>📫 How to **_reach me_** abinsanthosh19@gmail.com
+🔄 **Constantly Evolving:** I’m currently diving deep into Django and MERN stack projects to sharpen my web development expertise. From crafting intuitive front-ends to building robust back-ends, I’m all about creating impactful applications.
+
+👨‍💻 **Collaborative Spirit:** Open-source development fuels my passion! I’m eager to collaborate on Python Full Stack Web development and MERN stack projects that make a difference.
+
+🌱 **Expanding Horizons:** Recently, I’ve mastered the MERN stack, adding MongoDB, Express.js, React, and Node.js to my toolbox alongside Django, Flask, and Java. Each step enhances my ability to contribute and innovate.
+
+🔍 **Let’s Talk Tech:** Got questions about Python or the MERN stack? Feel free to ask — I’m always excited to share insights and help.
+
+🔥 **365-Day Coding Challenge:** I’m on a mission to code every day for a year! Each commit represents growth — whether it's fixing bugs, adding new features, improving documentation or contributing to open source.
+
+😉 **Fun fact:** Call me "Abin"? That’s an exception waiting to be thrown! It’s pronounced "Ebin," smooth and error-free. 🧘‍♂️
+
+📧 **Connect with Me:** Drop me an email at [abinsanthosh19@gmail.com](mailto:abinsanthosh19@gmail.com). Let’s collaborate, learn, and grow together!
+
+---
+
+⚡ Check out my projects and contributions to see my coding journey in action. Let’s build something amazing!
 
 # 💻 Tech Stack:
 
@@ -24,7 +40,7 @@
 <div id="Stats" align="center">
   
 ![](https://github-readme-stats.vercel.app/api?username=MJTech46&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MJTech46&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com?user=MJTech46&theme=dark)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MJTech46&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
