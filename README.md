@@ -22,17 +22,9 @@
 
 🔍 **Let’s Talk Tech:** Have a question about Python or the MERN stack? Ask away!
 
-⚡ **Fun fact:** Everyone thinks my name is "ABIN," but surprise! It's actually pronounced "EBIN." Consider it a feature, not a bug. 😆
+⚡ **Fun fact:** Call me "ABIN"? That’s an exception waiting to be thrown! It’s pronounced "Ebin", Consider it a feature, not a bug. 😆
 
 📧 **Let's Connect:** Reach me at [abinsanthosh19@gmail.com](mailto:abinsanthosh19@gmail.com). Let’s collaborate and create something awesome!
-
----
-
-## 🎯 12 Projects in 12 Months Challenge
-
-I'm taking on the **12 Projects in 12 Months** challenge! The goal is to build and document one project per month.  
-
-Coming Soon...
 
 ---
 
