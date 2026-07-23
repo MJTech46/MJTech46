@@ -29,12 +29,10 @@ Building useful software, experimenting with AI, and contributing to open source
 
 # 💫 About Me
 
-- 🎓 Final Year **B.Tech Computer Science & Engineering** student.
+- 🎓 **B.Tech Computer Science & Engineering** graduate.
 - 💼 Python Developer Intern with experience building real-world web applications.
 - 🐍 Passionate about **Python**, **Django**, **Django REST Framework**, and backend architecture.
 - 🤖 Interested in **Artificial Intelligence**, **LLMs**, and local AI applications.
-- 🌐 I enjoy building complete full-stack applications using **React + Django**.
-- 🔧 Love working with Linux, APIs, automation, networking, and self-hosted services.
 - 📚 Currently exploring:
   - Advanced Django
   - AI Integrations
@@ -44,54 +42,43 @@ Building useful software, experimenting with AI, and contributing to open source
 
 # 🚀 Current Projects
 
-- 🎙️ Kokoro TTS Web Application
-- 📱 Android Widgets & Automation
-- 🤖 AI-Powered Water Quality Detection System
-- 🌐 Django REST APIs
-- 📦 Open Source Python Projects
+- 🎙️ Offline [Text-To-Speech](https://github.com/MJTech46/PY-Offline-TTS) App using [Kokoro](https://github.com/thewh1teagle/kokoro-onnx)
+- 🤖 AI-Powered [Water Quality](https://github.com/MJTech46/MainProject-Water-Quality-Detection) Detection System
+- 📄 Secure [Text Storage](https://github.com/MJTech46/DJANGO-ProtectedText-clone) with Client-Side Encryption
+- 📦 Building & Contributing to Open Source Projects
 
 ---
 
-# 🎯 What I'm Working On
+# ⚙️ Source Code
 
 ```python
-class AbinSanthosh:
-
+class Developer:
     def __init__(self):
-        self.username = "MJTech46"
+        self.name = "Abin Santhosh"
+        self.handle = "MJTech46"
         self.role = "Python Full Stack Developer"
         self.location = "Kerala, India"
-
-        self.languages = [
-            "Python",
-            "JavaScript",
-            "Java",
-            "C"
+        
+    def current_focus(self):
+        return [
+            "Advanced Django & System Design",
+            "Local AI & LLM Integrations"
         ]
 
-        self.backend = [
-            "Django",
-            "Flask",
-            "Django REST Framework"
-        ]
-
-        self.frontend = [
-            "React",
-            "Vite",
-            "Tailwind CSS"
-        ]
-
-        self.current_focus = [
-            "Artificial Intelligence",
-            "System Design",
-            "Cloud",
-            "Open Source"
-        ]
-
-    def say_hi(self):
+    def ebin(self):
         return "Thanks for visiting my profile!"
 ```
 
+# ⚙️ Output
+
+```python
+>>> Developer().abin()
+Traceback (most recent call last):
+  File "/home/main.py", line 15, in <module>
+    Developer().abin()
+    ^^^^^^^^^^^^^^^^^^
+AttributeError: 'Developer' object has no attribute 'abin'. Did you mean: 'ebin'?
+```
 ---
 
 # 🌟 Facts
@@ -110,19 +97,9 @@ class AbinSanthosh:
 
 ---
 
-# ✍️ Developer Quote
-
 <div align="center">
 
-> **"Code. Learn. Build. Repeat."**
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐ If you like my projects, consider giving them a star!
+### ⭐ Thanks for stopping by! Star a repo if you find something useful ⭐️
 
 **Happy Coding! 🚀**
 
