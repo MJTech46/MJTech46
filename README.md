@@ -6,10 +6,10 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MJTech46)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abinsanthosh19)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abinsanthosh19)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abinsanthosh19)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mjtech46@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abinsanthosh19@gmail.com)
 
 </div>
 
@@ -49,51 +49,42 @@ Building useful software, experimenting with AI, and contributing to open source
 
 ---
 
-# ⚙️ Source Code
+# 💾 Source Code
 
 ```python
 class Developer:
     def __init__(self):
         self.name = "Abin Santhosh"
         self.handle = "MJTech46"
+        self.website = "www.mj46.in"
         self.role = "Python Full Stack Developer"
         self.location = "Kerala, India"
-        
-    def current_focus(self):
-        return [
-            "Advanced Django & System Design",
-            "Local AI & LLM Integrations"
-        ]
 
     def ebin(self):
-        return "Thanks for visiting my profile!"
+        return "Yep, that's me! & Thanks for visiting my profile!"
 ```
 
 # ⚙️ Output
 
 ```python
+>>> from main import Developer
 >>> Developer().abin()
 Traceback (most recent call last):
-  File "/home/main.py", line 15, in <module>
+  File "<python-input-1>", line 1, in <module>
     Developer().abin()
-    ^^^^^^^^^^^^^^^^^^
+    ^^^^^^^^^^^^^^^^
 AttributeError: 'Developer' object has no attribute 'abin'. Did you mean: 'ebin'?
 ```
+Fun Fact: 🗣️ Call me "Abin"? That’s an exception waiting to be thrown!, It’s pronounced "Ebin", Consider it a feature, not a bug.😆
+
 ---
 
 # 🌟 Facts
 
-- 🐍 Python is my primary language.
-- 🤖 I enjoy experimenting with AI models locally.
-- 🐧 Linux is my favorite development environment.
-- 💡 I believe learning happens by building.
-
----
-
-# 🌟 Fun Fact
-
-- 🗣️ Call me "Abin"? That’s an exception waiting to be thrown!
-- 😆 It’s pronounced "Ebin", Consider it a feature, not a bug.
+- 🎮 Minecraft Java Edition enthusiast.
+- 🏠 Homelab and self-hosting hobbyist.
+- 💼 Workaholic with a curious mindset.
+- 🤫 Quiet by nature, expressive through code.
 
 ---
 
