@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Abin Santhosh (MJTech46)</h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120"/>
+  <img src="https://www.mj46.in/assets/img/hero.png" width="500px"/>
 </div>
 
 <div align="center">
@@ -45,6 +45,7 @@ Building useful software, experimenting with AI, and contributing to open source
 - 🎙️ Offline [Text-To-Speech](https://github.com/MJTech46/PY-Offline-TTS) App using [Kokoro](https://github.com/thewh1teagle/kokoro-onnx)
 - 🤖 AI-Powered [Water Quality](https://github.com/MJTech46/MainProject-Water-Quality-Detection) Detection System
 - 📄 Secure [Text Storage](https://github.com/MJTech46/DJANGO-ProtectedText-clone) with Client-Side Encryption
+- 📥 Coordinate display [DataPack](https://github.com/MJTech46/MCDataPack-MJCoordinates) for Minecraft.
 - 📦 Building & Contributing to Open Source Projects
 
 ---
