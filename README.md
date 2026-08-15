@@ -10,6 +10,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abinsanthosh19)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abinsanthosh19)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abinsanthosh19@gmail.com)
+[![Website](https://img.shields.io/badge/My%20Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.mj46.in)
 
 </div>
 
@@ -46,6 +47,7 @@ Building useful software, experimenting with AI, and contributing to open source
 - 🤖 AI-Powered [Water Quality](https://github.com/MJTech46/MainProject-Water-Quality-Detection) Detection System
 - 📄 Secure [Text Storage](https://github.com/MJTech46/DJANGO-ProtectedText-clone) with Client-Side Encryption
 - 📥 Coordinate display [DataPack](https://github.com/MJTech46/MCDataPack-MJCoordinates) for Minecraft.
+- 🛠️ JS‑based [utilities Tools](https://github.com/MJTech46/JS-Tools) for quick client-side web tasks.
 - 📦 Building & Contributing to Open Source Projects
 
 ---
