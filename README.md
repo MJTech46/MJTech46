@@ -97,4 +97,6 @@ Fun Fact: 🗣️ Call me "Abin"? That’s an exception waiting to be thrown!, I
 
 **Happy Coding! 🚀**
 
+![GitHub Stats Card](https://ghstats.dev/api/card?username=MJTech46&custom_title=MJTech46+GitHub+Stats&hide=prs%2Cissues%2Chours%2Cgrade%2Cactive_day%2Cavg%2Cweek)
+
 </div>
